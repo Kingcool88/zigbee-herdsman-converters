@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Zen Mode</string>
-    <string name="accessibility_label">Zen Mode – låsning</string>
-    <string name="accessibility_description">Behövs för att hålla dig kvar på zen-skärmen medan zen-läget är aktivt. Tjänsten läser inte innehåll i andra appar, den ser bara vilken app som öppnas.</string>
-    <string name="device_admin_label">Zen Mode kiosklås</string>
-    <string name="device_admin_description">Gör det möjligt att låsa mobilen helt (Lock Task) under zen-läget.</string>
-</resources>
